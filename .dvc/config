@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ../UsersKIIT0001AppDataLocalTempdvc-storage2
